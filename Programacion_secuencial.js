@@ -14,4 +14,4 @@ function restar(a,b) {
 console.log ("Hola, " + nombre + " con apellido " + apellido + " y edad de " + edad);
 console.log ("El resultado de la suma es: " + sumar(numero,edad));
 let Resultado_resta = restar(4,edad);
-console.log("El resultado de la resta es: " + Resultado_resta)
+console.log("El resultado de la resta es: " + Resultado_resta)  
