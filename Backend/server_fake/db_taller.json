@@ -1,0 +1,98 @@
+{
+  "Data": [
+    {
+      "id": "1",
+      "first_name": "Kelsey",
+      "last_name": "MacPike",
+      "email": "kmacpike0@patch.com",
+      "gender": "Male",
+      "ip_address": "28.9.145.207",
+      "Department": "Accounting"
+    },
+    {
+      "id": "2",
+      "first_name": "Osmond",
+      "last_name": "Skase",
+      "email": "oskase1@ycombinator.com",
+      "gender": "Male",
+      "ip_address": "137.152.225.197",
+      "Department": "Services"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "first_name": "Catlaina",
+      "last_name": "Oley",
+      "email": "coley3@bravesites.com",
+      "gender": "Female",
+      "ip_address": "149.8.127.97",
+      "Department": "Training"
+    },
+    {
+      "id": "5",
+      "first_name": "Rhodia",
+      "last_name": "Holbie",
+      "email": "rholbie4@dell.com",
+      "gender": "Female",
+      "ip_address": "37.129.169.98",
+      "Department": "Marketing"
+    },
+    {
+      "id": "7",
+      "first_name": "Adrienne",
+      "last_name": "Martygin",
+      "email": "amartygin6@adobe.com",
+      "gender": "Female",
+      "ip_address": "36.221.228.214",
+      "Department": "Legal"
+    },
+    {
+      "id": "9",
+      "first_name": "Bord",
+      "last_name": "Beccero",
+      "email": "bbeccero8@4shared.com",
+      "gender": "Male",
+      "ip_address": "213.131.249.164",
+      "Department": "Engineering"
+    },
+    {
+      "id": "10",
+      "first_name": "Brittne",
+      "last_name": "Purshouse",
+      "email": "bpurshouse0@businesswire.com",
+      "gender": "Female",
+      "ip_address": "53.90.119.70",
+      "Department": "Human Resources"
+    },
+    {
+      "id": "11",
+      "first_name": "Pablo",
+      "last_name": "Rodriguez",
+      "email": "Irmaduro00@patch.com",
+      "gender": "Male",
+      "ip_address": "35.7.143.226",
+      "Department": "Marketing"
+    },
+    {
+      "id": "12",
+      "first_name": "Estefa",
+      "last_name": "Morales",
+      "email": "Garrote25@patch.com",
+      "gender": "Female",
+      "ip_address": "86.2.976.862",
+      "Department": "Engineering"
+    },
+    {
+      "id": "13",
+      "first_name": "Thomas",
+      "last_name": "Rodriguez",
+      "email": "parcero287@4shared.com",
+      "gender": "Male",
+      "ip_address": "62.6.385.156",
+      "Department": "Support"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
